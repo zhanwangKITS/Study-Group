@@ -3,8 +3,8 @@
 
 ### Materials:
 
-[1] Tatsuma Nishioka. Entanglement entropy: Holography and renormalization group. Rev. Mod. Phys. 90, 035007 (2018). arXiv: 1801.10352.
-[2] J. Eisert, M. Cramer, M.B. Plenio. Colloquium: Area laws for the entanglement entropy. Rev. Mod. Phys. 82, 277 (2010). arXiv: 0808.3773.
+[1] Tatsuma Nishioka. Entanglement entropy: Holography and renormalization group. Rev. Mod. Phys. 90, 035007 (2018). arXiv: 1801.10352. \\
+[2] J. Eisert, M. Cramer, M.B. Plenio. Colloquium: Area laws for the entanglement entropy. Rev. Mod. Phys. 82, 277 (2010). arXiv: 0808.3773. \\
 [3] Nicolas Laflorencie. Quantum entanglement in condensed matter systems. Phys. Rep. 646, 3: 1-59 (2016). arXiv: 1512.03388.
 
 ### Schedules:
