@@ -2,7 +2,7 @@
 ## Topic No.1: Eigenstate Thermalization Hypothesis in chaotic system.
 ### Materials
 
-(1) review paper
+(1) review paper by Marcos Rigol: arXiv: 1509.06411.
 
 
 ## Welcome to GitHub Pages
