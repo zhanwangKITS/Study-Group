@@ -1,3 +1,10 @@
+# Reading Cource
+## Topic No.1: Eigenstate Thermalization Hypothesis in chaotic system.
+### Materials
+
+(1) review paper
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/zhanwangKITS/Study-Group/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
