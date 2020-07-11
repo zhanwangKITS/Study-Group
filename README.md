@@ -1,5 +1,4 @@
-# Reading Course
-## Topic 2: Basic Knowleges on Quantum Entanglement. (ongoing)
+## Topic 2: Basics on Quantum Entanglement. (ongoing)
 
 ### References:
 
