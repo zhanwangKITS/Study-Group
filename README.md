@@ -1,44 +1,29 @@
-# Reading Cource
-## Topic No.1: Eigenstate Thermalization Hypothesis in chaotic system.
-### Materials
+# Reading Course
+## Topic 2: Basic Knowleges on Quantum Entanglement. (ongoing)
 
-(1) review paper by Marcos Rigol: arXiv: 1509.06411.
+### Materials:
+
+[1] Tatsuma Nishioka. Entanglement entropy: Holography and renormalization group. Rev. Mod. Phys. 90, 035007 (2018). arXiv: 1801.10352.
+[2] J. Eisert, M. Cramer, M.B. Plenio. Colloquium: Area laws for the entanglement entropy. Rev. Mod. Phys. 82, 277 (2010). arXiv: 0808.3773.
+[3] Nicolas Laflorencie. Quantum entanglement in condensed matter systems. Phys. Rep. 646, 3: 1-59 (2016). arXiv: 1512.03388.
+
+### Schedules:
+(1) Jul 14, 2020. Chapter 1-2 of [1]. Speaker: Hong-hao Song & Hong-mao Peng.
 
 
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/zhanwangKITS/Study-Group/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Topic 1: Eigenstate Thermalization Hypothesis in chaotic system. (finished)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Materials:
 
-### Markdown
+review paper by Marcos Rigol: From Quantum Chaos and Eigenstate Thermalization to Statistical Mechanics and Thermodynamics.
+arXiv: 1509.06411.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Schedules:
+(1) May 24, 2020. Chapter 2-4. Speaker: Zhan Wang & Wen-jie Wei.
+(2) Jun 2, 2020. Chpater 5. Speaker: Zhan Wang & Wen-jie Wei.
+(3) Jun 15, 2020. Chapter 2-3 (discussion). Speaker: Rui-zhen Huang.
+(4) Jun 23, 2020. Chapter 4-5 (discussion). Speaker: Rui-zhen Huang.
+(5) Jul 10, 2020. Chapter 6-8. Speaker: Rui-zhen Huang & Wen-jie Wei.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhanwangKITS/Study-Group/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
