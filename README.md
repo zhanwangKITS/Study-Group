@@ -4,8 +4,8 @@
 
 [1] Tatsuma Nishioka. Entanglement entropy: Holography and renormalization group. Rev. Mod. Phys. 90, 035007 (2018). arXiv: [1801.10352](https://arxiv.org/abs/1801.10352). \\
 [2] J. Eisert, M. Cramer, M.B. Plenio. Colloquium: Area laws for the entanglement entropy. Rev. Mod. Phys. 82, 277 (2010). arXiv: [0808.3773](https://arxiv.org/abs/0808.3773). \\
-[3] Nicolas Laflorencie. Quantum entanglement in condensed matter systems. Phys. Rep. 646, 3: 1-59 (2016). arXiv: [1512.03388](https://arxiv.org/abs/1512.03388).
-[4] Michael Levin and Xiao-Gang Wen. Detecting Topological Order in a Ground State Wave Function. Phys. Rev. Lett. 96, 110405 (2006). arXiv: [0510613](https://arxiv.org/abs/cond-mat/0510613).
+[3] Nicolas Laflorencie. Quantum entanglement in condensed matter systems. Phys. Rep. 646, 3: 1-59 (2016). arXiv: [1512.03388](https://arxiv.org/abs/1512.03388).\\
+[4] Michael Levin and Xiao-Gang Wen. Detecting Topological Order in a Ground State Wave Function. Phys. Rev. Lett. 96, 110405 (2006). arXiv: [0510613](https://arxiv.org/abs/cond-mat/0510613).\\
 [5] Alexei Kitaev and John Preskill. Topological entanglement entropy. Phys.Rev.Lett. 96, 110404 (2006). arXiv: [0510092](https://arxiv.org/abs/hep-th/0510092).
 
 ### Schedules:
