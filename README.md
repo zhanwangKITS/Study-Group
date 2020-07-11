@@ -16,8 +16,7 @@
 
 ### References:
 
-review paper by Marcos Rigol: From Quantum Chaos and Eigenstate Thermalization to Statistical Mechanics and Thermodynamics.
-arXiv: [1509.06411](https://arxiv.org/abs/1509.06411).
+Luca D'Alessio, Yariv Kafri, Anatoli Polkovnikov, Marcos Rigol. From Quantum Chaos and Eigenstate Thermalization to Statistical Mechanics and Thermodynamics. Adv. Phys. 65, 239 (2016). arXiv: [1509.06411](https://arxiv.org/abs/1509.06411).
 
 ### Schedules:
 (1) May 24, 2020. Chapter 2-4. Speaker: Zhan Wang & Wen-jie Wei.\\
