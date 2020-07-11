@@ -9,7 +9,7 @@
 [5] Alexei Kitaev and John Preskill. Topological entanglement entropy. Phys.Rev.Lett. 96, 110404 (2006). arXiv: [0510092](https://arxiv.org/abs/hep-th/0510092).
 
 ### Schedules:
-(1) Jul 14, 2020. Chapter 1-2 of [1]. Speaker: Hong-hao Song & Hong-mao Peng.
+(1) Jul 21, 2020. Chapter 1-2 of [1]. Speaker: Hong-hao Song & Hong-mao Peng.
 
 
 
