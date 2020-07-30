@@ -10,7 +10,7 @@
 
 ### Schedules:
 (1) Jul 21, 2020. Chapter 1-2 of [1]. Speakers: Hong-hao Song & Hong-mao Peng.\\
-(2) Jul 28, 2020. Speakers: Zhan Wang and Wen-jie Wei.
+(2) Jul 28, 2020. Chapter 3-4 of [1]. Speakers: Zhan Wang and Wen-jie Wei.
 
 
 
